@@ -1,7 +1,7 @@
 # bookbot
 Official repository for the discord bot "bookbot".
 
-Currently on version 2.0.4
+Currently on version 2.0.5
 
 [Wiki and docs](https://github.com/MCUniversity/bookbot/wiki)
 
